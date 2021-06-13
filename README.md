@@ -33,6 +33,12 @@ ___
 <a href="https://www.linkedin.com/in/rafet-basturk-934b98213/"><img width="64px" src="./images/linkedin.svg" alt="linkedin icon"></a>
 </div>
 
+___
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=techdevrafet&show_icons=true&hide_border=true" alt="techdevrafet's GitHub Stats" />
+
+
 <!--
 **techdevrafet/techdevrafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
