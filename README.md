@@ -5,7 +5,7 @@
 - I have learned some HTML5, CSS3, Bootstrap, JavaScript, JQuery, NodeJS, NPM, ExpressJS, EJS, SASS, Tailwind, Git, Babel, Webpack till now.
 - I am currently learning React. 🧐
 - I am looking forward to collaborating with other coders. 👯
-- 2021 Goals: Python -> Django -> Full-Stack
+- 2021 Goals: Python -> Django -> Full-Stack Developer 🥳
 
 ## My skills
 [<img width="26px" src="./images/html5.svg" alt="html icon">]
