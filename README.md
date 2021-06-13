@@ -13,16 +13,15 @@ ___
 ## My skills
 
 <div style="display: flex; justify-content: space-between">
-<img width="128px" src="./images/html5.svg" alt="html icon">
-<img width="128px" src="./images/css3.svg" alt="css icon">
-<img width="128px" src="./images/javascript.svg" alt="javascript icon">
-<img width="128px" src="./images/jquery.svg" alt="jquery icon">
-<img width="128px" src="./images/git.svg" alt="git icon">
-<img width="128px" src="./images/node.svg" alt="node icon">
-<img width="128px" src="./images/npm.svg" alt="npm icon">
-<img width="128px" src="./images/sass.svg" alt="sass icon">
-<img width="128px" src="./images/tailwind.svg" alt="tailwind icon">
-<img width="200px" src="./images/bootstrap.svg" alt="bootstrap icon">
+<img width="128px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html icon">
+<img width="128px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css icon">
+<img width="128px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap icon">
+<img width="128px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript icon">
+<img width="128px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jquery icon">
+<img width="128px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git icon">
+<img width="128px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node icon">
+<img width="128px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm icon">
+<img width="128px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass icon">
 </div>
 
 ___
@@ -36,12 +35,9 @@ ___
 ___
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=techdevrafet&show_icons=true&hide_border=true" alt="techdevrafet's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=techdevrafet&repo=github-readme-stats" alt="techdevrafet's Readme Card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdevrafet" alt="techdevrafet's Top Langs" />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techdevrafet&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats-techdevrafet.vercel.app/api?username=techdevrafet&show_icons=true&hide_border=true" alt="techdevrafet's GitHub Stats" />
+<img src="https://github-readme-stats-techdevrafet.vercel.app/api/pin/?username=techdevrafet&repo=github-readme-stats" alt="techdevrafet's Readme Card" />
+<img src="https://github-readme-stats-techdevrafet.vercel.app/api/top-langs/?username=techdevrafet" alt="techdevrafet's Top Langs" />
 
 <!--
 **techdevrafet/techdevrafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
