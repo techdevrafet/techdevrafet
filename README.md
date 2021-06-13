@@ -1,35 +1,38 @@
 
-### Hi! I am Rafet 👋
+# Hi! I am Rafet 👋
 
 ## This is the very beginning of my journey to Full-Stack.
 
-- I have learned some HTML5, CSS3, Bootstrap, JavaScript, JQuery, NodeJS, NPM, ExpressJS, EJS, SASS, Tailwind, Git, Babel, Webpack till now.
-- I am currently learning React. 🧐
-- I am looking to collaborate with other coders. 👯
-- 2021 Goals: Python -> Django -> Full-Stack Developer 🥳
+* I have learned some HTML5, CSS3, Bootstrap, JavaScript, JQuery, NodeJS, NPM, ExpressJS, EJS, SASS, Tailwind, Git, Babel, Webpack till now.
+* I am currently learning React. 🧐
+* I am looking to collaborate with other coders. 👯
+* 2021 Goals: Python -> Django -> Full-Stack Developer 🥳
 
-<hr>
+___
 
-## My skills <br>
+## My skills
+___
 
+<div style="display: flex; justify-content: space-between">
 <img width="128px" src="./images/html5.svg" alt="html icon">
 <img width="128px" src="./images/css3.svg" alt="css icon">
-<img width="128px" src="./images/bootstrap.svg" alt="bootstrap icon">
 <img width="128px" src="./images/javascript.svg" alt="javascript icon">
 <img width="128px" src="./images/jquery.svg" alt="jquery icon">
 <img width="128px" src="./images/git.svg" alt="git icon">
-<img width="128px" src="./images/webpack.svg" alt="webpack icon">
 <img width="128px" src="./images/node.svg" alt="node icon">
 <img width="128px" src="./images/npm.svg" alt="npm icon">
 <img width="128px" src="./images/sass.svg" alt="sass icon">
 <img width="128px" src="./images/tailwind.svg" alt="tailwind icon">
+<img width="200px" src="./images/bootstrap.svg" alt="bootstrap icon">
+</div>
 
-<hr>
-
-## Connect with me <br>
-
-<a href="https://twitter.com/TechRafet"><img width="128px" src="./images/twitter.svg" alt="twitter icon"></a>
-<a href="https://www.linkedin.com/in/rafet-basturk-934b98213/"><img width="128px" src="./images/linkedin.svg" alt="linkedin icon"></a>
+___
+## Connect with me
+___
+<div style="display: flex; align-items: center">
+<a style="margin-right: 2rem" href="https://twitter.com/TechRafet"><img width="128px" src="./images/twitter.svg" alt="twitter icon"></a>
+<a href="https://www.linkedin.com/in/rafet-basturk-934b98213/"><img width="200px" src="./images/linkedin.svg" alt="linkedin icon"></a>
+</div>
 
 <!--
 **techdevrafet/techdevrafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
