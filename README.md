@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi! I am Rafet 👋
+
+This is the very beginning of my journey to Full-Stack.
+
+I'm currently learning React 🥳
+
+My skills
+
 
 <!--
 **techdevrafet/techdevrafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
