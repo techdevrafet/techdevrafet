@@ -37,11 +37,8 @@ ___
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=techdevrafet&show_icons=true&hide_border=true" alt="techdevrafet's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=techdevrafet&repo=github-readme-stats&show_owner" alt="techdevrafet's Readme Card" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=techdevrafet&repo=github-readme-stats" alt="techdevrafet's Readme Card" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdevrafet" alt="techdevrafet's Top Langs" />
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
