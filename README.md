@@ -28,8 +28,8 @@ ___
 ___
 ## Connect with me
 
-<div style="display: flex; align-items: center; justify-content: flex-start">
-<a style="margin-right: 2rem" href="https://twitter.com/TechRafet"><img width="64px" src="./images/twitter.svg" alt="twitter icon"></a>
+<div>
+<a style="display: inline-block; margin-right: 2rem" href="https://twitter.com/TechRafet"><img width="64px" src="./images/twitter.svg" alt="twitter icon"></a>
 <a href="https://www.linkedin.com/in/rafet-basturk-934b98213/"><img width="100px" src="./images/linkedin.svg" alt="linkedin icon"></a>
 </div>
 
