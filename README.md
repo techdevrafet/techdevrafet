@@ -40,6 +40,8 @@ ___
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=techdevrafet&repo=github-readme-stats" alt="techdevrafet's Readme Card" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdevrafet" alt="techdevrafet's Top Langs" />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techdevrafet&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **techdevrafet/techdevrafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
