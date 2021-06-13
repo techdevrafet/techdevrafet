@@ -1,7 +1,7 @@
 
 # Hi! I am Rafet 👋
 
-## This is the very beginning of my journey to Full-Stack.
+*__This is the very beginning of my journey to Full-Stack.__*
 
 * I have learned some HTML5, CSS3, Bootstrap, JavaScript, JQuery, NodeJS, NPM, ExpressJS, EJS, SASS, Tailwind, Git, Babel, Webpack till now.
 * I am currently learning React. 🧐
@@ -11,7 +11,6 @@
 ___
 
 ## My skills
-___
 
 <div style="display: flex; justify-content: space-between">
 <img width="128px" src="./images/html5.svg" alt="html icon">
@@ -28,10 +27,10 @@ ___
 
 ___
 ## Connect with me
-___
-<div style="display: flex; align-items: center">
-<a style="margin-right: 2rem" href="https://twitter.com/TechRafet"><img width="128px" src="./images/twitter.svg" alt="twitter icon"></a>
-<a href="https://www.linkedin.com/in/rafet-basturk-934b98213/"><img width="200px" src="./images/linkedin.svg" alt="linkedin icon"></a>
+
+<div style="display: flex; align-items: center; justify-content: flex-start">
+<a style="margin-right: 2rem" href="https://twitter.com/TechRafet"><img width="64px" src="./images/twitter.svg" alt="twitter icon"></a>
+<a href="https://www.linkedin.com/in/rafet-basturk-934b98213/"><img width="100px" src="./images/linkedin.svg" alt="linkedin icon"></a>
 </div>
 
 <!--
