@@ -28,9 +28,9 @@ ___
 ___
 ## Connect with me
 
-<div>
-<a style="display: inline-block; margin-right: 2rem" href="https://twitter.com/TechRafet"><img width="64px" src="./images/twitter.svg" alt="twitter icon"></a>
-<a href="https://www.linkedin.com/in/rafet-basturk-934b98213/"><img width="100px" src="./images/linkedin.svg" alt="linkedin icon"></a>
+<div style="background: white; width: 200px; margin:auto; text-align: center">
+<a href="https://twitter.com/TechRafet"><img width="56px" src="./images/twitter.svg" alt="twitter icon"></a>
+<a href="https://www.linkedin.com/in/rafet-basturk-934b98213/"><img width="64px" src="./images/linkedin.svg" alt="linkedin icon"></a>
 </div>
 
 <!--
