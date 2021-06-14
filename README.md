@@ -6,7 +6,7 @@
    <img src="https://img.shields.io/github/followers/techdevrafet?style=social" alt="github follw link" />
 </div>
 
-
+___
 *__This is the very beginning of my journey to Full-Stack.__*
 
 * I have learned some HTML5, CSS3, Bootstrap, JavaScript, JQuery, NodeJS, NPM, ExpressJS, EJS, SASS, Tailwind, Git, Babel, Webpack till now.
@@ -40,11 +40,8 @@ ___
 ## Github Stats
 
 <img src="https://github-readme-stats-techdevrafet.vercel.app/api?username=techdevrafet&show_icons=true&hide_border=true" alt="techdevrafet's GitHub Stats" />
-<img src="https://github-readme-stats-techdevrafet.vercel.app/api/pin/?username=techdevrafet&repo=github-readme-stats" alt="techdevrafet's Readme Card" />
+
 <img src="https://github-readme-stats-techdevrafet.vercel.app/api/top-langs/?username=techdevrafet" alt="techdevrafet's Top Langs" />
-
-<!--START_SECTION:activity-->
-
 
 <!--
 **techdevrafet/techdevrafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
