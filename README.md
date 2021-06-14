@@ -36,9 +36,9 @@ ___
 ___
 ## Github Stats
 
-<img align=""left" src="https://github-readme-stats-techdevrafet.vercel.app/api?username=techdevrafet&show_icons=true&hide_border=true" alt="techdevrafet's GitHub Stats" />
+<img align="left" src="https://github-readme-stats-techdevrafet.vercel.app/api?username=techdevrafet&show_icons=true&hide_border=true" alt="techdevrafet's GitHub Stats" />
 
-<img align=""left" src="https://github-readme-stats-techdevrafet.vercel.app/api/top-langs/?username=techdevrafet" alt="techdevrafet's Top Langs" />
+<img align="left" src="https://github-readme-stats-techdevrafet.vercel.app/api/top-langs/?username=techdevrafet" alt="techdevrafet's Top Langs" />
 
 <!--
 **techdevrafet/techdevrafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
