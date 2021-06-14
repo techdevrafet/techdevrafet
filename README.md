@@ -1,8 +1,10 @@
 
 # Hi! I am Rafet 👋
 
-<img src="https://img.shields.io/twitter/follow/TechRafet?style=social" alt="twitter follw link" />
-<img src="https://img.shields.io/github/followers/techdevrafet?style=social" alt="github follw link" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, 200px); gap: 20px; justify-content: center">
+   <img src="https://img.shields.io/twitter/follow/TechRafet?style=social" alt="twitter follw link" />
+   <img src="https://img.shields.io/github/followers/techdevrafet?style=social" alt="github follw link" />
+</div>
 
 
 *__This is the very beginning of my journey to Full-Stack.__*
@@ -16,7 +18,7 @@ ___
 
 ## My skills
 
-<div style="display: flex; justify-content: space-between">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, 80px); gap: 20px; justify-content: center">
 <img width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html icon">
 <img width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css icon">
 <img width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap icon">
