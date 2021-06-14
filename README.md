@@ -1,10 +1,10 @@
-
-# Hi! I am Rafet 👋
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, 200px); gap: 20px; justify-content: center">
-   <img src="https://img.shields.io/twitter/follow/TechRafet?style=social" alt="twitter follw link" />
-   <img src="https://img.shields.io/github/followers/techdevrafet?style=social" alt="github follw link" />
-</div>
+<p align="center">
+   <h1 align="center">Hi! I am Rafet 👋</h1>
+   <p align="center">
+      <img src="https://img.shields.io/twitter/follow/TechRafet?style=social" alt="twitter follw link" />
+      <img src="https://img.shields.io/github/followers/techdevrafet?style=social" alt="github follw link" />
+   </p>
+</p>
 
 ___
 *__This is the very beginning of my journey to Full-Stack.__*
